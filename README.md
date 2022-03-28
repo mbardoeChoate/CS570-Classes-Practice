@@ -8,7 +8,8 @@ The robot class needs to have the following fields:
 * ```wheel_radius``` = the wheel radius of the drive wheels
 
 The robot class will have the following methods
-*`````run() - a function that calculates and returns the velocity of the robot as a tuple (left velocity, right velocity```
+
+*```run()``` - a function that calculates and returns the velocity of the robot as a tuple (left velocity, right velocity.
 
 The ```Robot``` class will interact with the Motor class to help determine the velocity of the robot for different motor
 settings. 
